@@ -2,7 +2,7 @@
 
 Interpreter made using JS
 
-file.txt - basic lib with some functions
+file.txt - basic lib with some functions (used for import in main.txt)
 
 main.txt - our text program
 
