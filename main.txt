@@ -1,0 +1,34 @@
+#insert (file.txt)
+
+a=72;
+b=5;
+c='a';
+d='a';
+
+srch='word\w{2}';
+
+str='word12aswordzxvwordasfzxwordxc';
+
+print(searchIndexes(srch,str));
+print(found=searchElements(srch,str));
+print(indexCount(found));
+
+k=indexAccess(found,2);
+
+print('-----','get by index 2: '+k,'-----');
+
+if(d,c){
+    b=8;
+    sayHello('comrade');
+};
+
+k=indexCount(srch);
+print('string length: '+k);
+
+i=0;
+ifLoop(i<k){
+    print(indexAccess(srch,i));
+    i=i+1;
+}; 
+sayBye('stranger');
+
